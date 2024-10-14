@@ -1,5 +1,3 @@
-# predictive_modeling_for_agriculture
-Predictive Modeling for Agriculture
 # Predictive Modeling for Agriculture
 
 This project focuses on developing a predictive model for agricultural purposes, specifically to determine the most suitable crop based on soil conditions.
